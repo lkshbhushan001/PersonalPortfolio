@@ -220,7 +220,7 @@ const bigProjects = {
   subtitle: "Some projects I created to showcase my skills",
   projects: [
     {
-      image: require("./assets/images/dataWebsiteLogo.jpg"),
+      image: require("./assets/images/dataWebsiteLogo.png"),
       projectName: "Data Preprocessing and Recommendations application",
       projectDesc: "Built a full-stack app for automated data preprocessing with AI-driven cleaning options. Integrated RAG for prompt-based cleaning and a dashboard for insights like feature importance and outlier detection, boosting user efficiency.",
       footerLink: [
@@ -232,7 +232,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/frDetectionLogo.jpg"),
+      image: require("./assets/images/frDetectionLogo.png"),
       projectName: "Customer Fraud Detection System",
       projectDesc: "Developed machine learning models to detect fraudulent transactions. Conducted feature engineering to identify high-impact predictors of fraud across millions of customer records, enhancing accuracy and reliability in fraud detection.",
       // footerLink: [
