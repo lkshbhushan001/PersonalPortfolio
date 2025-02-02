@@ -43,9 +43,7 @@ export default function Greeting() {
                 {greeting.resumeLink && (
                   <a
                     href={require("./resume.pdf")}
-                    //download="Resume.pdf"
-                    target="_blank" // Opens the PDF in a new tab
-                    rel="noopener noreferrer"
+                    download="Resume_LokeshB.pdf"                    
                     className="download-link-button"
                   >
                     <Button text="View my resume" />
